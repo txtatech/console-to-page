@@ -1,5 +1,5 @@
 # console-to-page
-An HTML file that redirects Developer Tools console output to the page. It allows you to view the console logs, warnings, and errors directly in the browser.
+An HTML file that redirects the Developer Tools console output to the page. It allows you to view the console logs, warnings, and errors directly in the browser.
 
 ## Usage
 
